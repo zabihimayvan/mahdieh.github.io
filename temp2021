@@ -1,0 +1,354 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-108087623-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-108087623-1');
+</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Mahdieh Zabihimayvan</title>
+<link href="defaultstyles.css" rel="stylesheet" media="screen" />
+
+<style>
+span.title{
+color:#014519;
+}
+</style>
+
+<style>
+.table{
+margin-top:0;
+margin-bottom:0;
+}
+</style>
+
+<style type="text/css">
+.nobull {
+list-style-type: none;
+}
+</style>
+</head>
+
+<body>
+<div id="container">
+    <div id="ucb"><script type="text/javascript">ucbheader();</script></div>
+    <div id="wrapper">
+    
+	<div id="bannerimage">
+		<br><br>
+		<h1><i>Mahdieh Zabihimayvan</i></h1>
+    	<p>Assistant Professor of Computer Science, Central Connecticut State University</p>
+    </div>
+	
+	<div id="page">
+
+        <div id="content">
+
+	    <div id="sidebar">
+        	<img class="img-circle" src="image/zabihimayvan.png" id="fac_photo"
+                style="width:290px;height:290px"/>
+			       <div id="navcontainer">
+			       <ul>
+				       <li> <h3>Mahdieh Zabihimayvan</h3></li>
+			      
+		               <li><a href="https://www2.ccsu.edu/"> Central Connecticut State University</a>, CT, US </li>
+			       </br>
+			       <li><b>Contact me:</b>
+				       <ul>
+				           <li>zabihimayvan[at]ccsu[dot]edu</li>
+				     
+				       </ul>
+			       </li>
+			       </br>
+			       <li><b> More information: </b></li>
+				       <ul>
+  					
+					  <br>
+    				          <li><a href="https://scholar.google.com/citations?user=0mOY2kYAAAAJ&hl=en">Google Scholar</a><!--, <a href="https://twitter.com/Madea_Zabi">Twitter</a></li>-->
+					  <li><a href="https://www.linkedin.com/in/mahdieh-madea-zabihimayvan-5455b774/">LinkedIn</a>, <a href="https://www.researchgate.net/profile/Mahdieh_Zabihimayvan"> ResearchGate</a></li> 
+					  <li><a href="https://publons.com/researcher/1641403/mahdieh-zabihimayvan/">Publons</a></li>
+    						
+				      </ul>
+			 
+			       </ul>
+			       </div>
+		       	            
+		</div>              
+	        
+            <h2 align="center"> <span class="title">Biography </span></h2>
+        	                
+            <p>I am an assistant professor in the department of <a href="https://www.ccsu.edu/cs/">Computer Science</a> at <a href="https://www.ccsu.edu">Central Connecticut State University</a>. 
+	I received my PhD in Computer Science from <a href="https://www.wright.edu">Wright State University</a>. </br>
+        I work on the applications of artificial intelligence for cybersecurity with the aim of improving proactive cyber 
+	threat intelligence applications in protecting privacy of Internet users. I am particularly interested in applied 
+        machine learning and characterization, measurements, and analytics for complex cyber-security and socio-technical systems. 
+
+	   </p>
+	<hr> 
+		
+<h2 align="center"> <span class="title">Selected Publications </span></h2> 
+		<ul>
+			
+		<li>M. Zabihimayvan, D. Doran (2019), <a href="https://arxiv.org/pdf/1911.07814.pdf"> “A First Look at References from the Dark to Surface Web World”, </a> arXiv preprint arXiv:1911.07814. </li>
+
+		<li>M. Zabihimayvan, D. Doran (2019), <a href="https://ieeexplore.ieee.org/abstract/document/8858884"> “Fuzzy Rough Set Feature Selection to Enhance Phishing Attack Detection”, </a> IEEE International Conference on Fuzzy Systems.</li>
+		
+		<li>M. Zabihimayvan, R. Sadeghi, D. Doran, M. Allahyari (2019), <a href="https://arxiv.org/abs/1902.06680"> "A Broad Evaluation of the Tor English Content Ecosystem", </a><a href"https://websci19.webscience.org/"> 11th ACM Conference on Web Science.</a></li> 
+		
+                <li>M. Zabihimayvan, D. Doran (2018),<a href="https://ieeexplore.ieee.org/document/8362266/?part=1"> “Some (Non-)Universal Features of Web Robot Traffic”, </a>
+		52th Annual Conference on Information Sciences and Systems (CISS), IEEE, Princeton University, NJ, US. </li>	
+		
+		<li>M. Zabihimayvan, R. Sadeghi, H. Nathan Rude, D. Doran (2017), <a href="http://www.sciencedirect.com/science/article/pii/S0957417417304116">
+		“A soft computing approach for benign and malicious web robot detection”, </a>
+		Expert Systems with Applications, 87, 129-140, <a href="https://github.com/wsu-wacs/SMART">(Source code),</a> (Impact factor: 3.928).</li>
+		                    
+		<li>J. Hamidzadeh, M. Zabihimayvan, R. Sadeghi (2017), <a href="https://link.springer.com/article/10.1007/s00500-016-2476-4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BjJ7RLNelTyudIJyk8OG4Lg%3D%3D">
+		“Detection of Web site visitors based on fuzzy rough sets”</a>, 
+		Soft Computing, 22(7), 2175-2188,  (Impact factor: 2.472).</li>
+		                    
+		<li>M. Zabihi, M. Vafaei Jahan, and J. Hamidzadeh (2014), <a href="http://ieeexplore.ieee.org/abstract/document/6993362/">
+		"A density based clustering approach for web robot detection."</a>
+		International Conference on Computer and Knowledge Engineering (ICCKE), IEEE, (Accept Rate:22%).</li>
+
+
+<hr>
+		
+<h2 align="center" color="#014519"> <span class="title">Selected Projects </span></h2>
+
+<!-- References project -->  
+	    <table>                     
+		<tr><td>            
+		<img width="250px" height="200px" src="image/net.png"/></td> 
+		<td>                
+		<h3 align="center"> A First Look at References from the Dark to Surface Web World </h3>
+			<p><b>Tor</b> is one of the most well-known networks that protects the identity of both content providers and their clients against any tracking
+or tracing on the Internet. So far, most research attention has been focused on investigating the security and privacy concerns of
+Tor and characterizing the topic or hyperlink structure of its hidden services. However, there is still lack of knowledge about the
+information leakage attributed to the linking from Tor hidden services to the surface Web. This work addresses this gap by presenting
+a broad evaluation of the network of referencing from Tor to surface Web and investigates to what extent Tor hidden services are
+vulnerable against this type of information leakage. The analyses also consider how linking to surface websites can change the overall
+hyperlink structure of Tor hidden services. They also provide reports regarding the type of information and services provided by
+Tor domains. Results recover the dark-to-surface network as a single massive connected component where over 90% of Tor hidden
+services have at least one link to the surface world despite their interest in being isolated from surface Web tracking. We identify that
+Tor directories have closest proximity to all other Web resources and signicantly contribute to both communication and information
+dissemination through the network which emphasizes on the main application of Tor as information provider to the public. Our study
+is the product of crawling near 2 million pages from 23,145 onion seed addresses, over a three-month period.</br>
+		The result of this work is accessible through the <a href="https://arxiv.org/pdf/1911.07814.pdf">ArXiv</a>.</br>
+		</p></td></tr>      
+		                    
+</table>
+	
+<!-- Tor project -->  
+	    <table>                     
+		<tr><td>            
+		<img width="250px" height="300px" src="image/connections.png"/></td> 
+		<td>                
+		<h3 align="center"> A Broad Evaluation of the Tor English Content Ecosystem </h3>
+			<p><b>Tor</b> is among most well-known <b>dark net</b> in the world. It has noble uses, including as a platform for free 
+		speech and information dissemination under the guise of true anonymity, but may be culturally better known as 
+		a conduit for criminal activity and as a platform to market illicit goods and data. Past studies on the 
+		content of Tor support this notion, but were carried out by targeting popular domains likely to contain 
+		illicit content. A survey of past studies may thus not yield a complete evaluation of the content and use of 
+		Tor. <b>This work</b> addresses this gap by presenting a broad evaluation of the content of the English Tor ecosystem. 
+		We perform a comprehensive crawl of the Tor dark web and, through topic and network analysis, characterize 
+		the `types' of information and services hosted across a broad swath of Tor domains and their hyperlink relational 
+		structure. We recover nine domain types defined by the information or service they host and, among other findings, 
+		unveil how some types of domains intentionally silo themselves from the rest of Tor. We also present measurements 
+		that (regrettably) suggest how marketplaces of illegal drugs and services do emerge as the dominant type of Tor 
+				domain. Our study is the product of crawling over <b>1 million</b> pages from 20,000 Tor seed addresses, yielding a 
+		collection of over 150,000 Tor pages. </br> 
+			The <i>full paper</i> titled <a href="https://arxiv.org/pdf/1902.06680.pdf"> 
+“A Broad Evaluation of the Tor English Content Ecosystem” </a> which presents the report of this project has been accepted at <a href= "https://websci19.webscience.org/">
+			11th ACM Conference on Web Science (WebSci2019) </a>. </br>
+	    </p></td></tr>      
+		                    
+</table> 
+<!-- Phishing project -->  
+	    <table>                     
+		<tr><td>            
+		<img width="250px" height="200px" src="image/phishing.png"/></td> 
+		<td>                
+		<h3 align="center"> Enhancing Phishing attack detection </h3>
+			<p><b>Phishing</b> as one of the most well-known <b>cybercrime activities</b> is a deception of online users to steal their 
+		personal or confidential information by impersonating a legitimate website. Several machine learning-based 
+		strategies have been proposed to detect phishing websites. These techniques are dependent on the features 
+		extracted from the website samples. However, few studies have actually considered efficient feature selection 
+		for detecting phishing attacks. In this work, we investigate an agreement on the definitive features which 
+		should be used in phishing detection. We apply Fuzzy Rough Set (FRS) theory as a tool to select <b>most effective 
+		features</b> from three benchmarked data sets. The selected features are fed into three often used classifiers for 
+		phishing detection. To evaluate the FRS feature selection in developing a generalizable phishing detection, 
+		the classifiers are trained by a separate out-of-sample data set of 14,000 website samples.
+		The paper titled <a href="https://ieeexplore.ieee.org/abstract/document/8858884"> 
+“Fuzzy Rough Set Feature Selection to Enhance Phishing Attack Detection” </a> which presents the report of this project has been presented at <a href= "http://sites.ieee.org/fuzzieee-2019/">
+			IEEE International Conference on Fuzzy Systems (FUZZ-IEEE2019)</a>. </br>
+			You can also read the <b>recent article</b> of <a href="https://techxplore.com/news/2019-03-features-phishing-algorithms.html"> TechXplore </a> about this work! 
+		</p></td></tr>      
+		                    
+</table> 
+	    
+<!-- Traffic chracterization --> 	    
+<table>                     
+		<tr><td>            
+		<img width="250px" height="200px" src="image/analysis.png"/></td> 
+		<td>                
+		<h3 align="center"> Web traffic characterization </h3>
+		<p>Understanding the qualities of <b>Web robot traffic</b> is essential to build mechanisms for mitigating 
+		the impact of their traffic on Web systems. This project presents an updated characterization of the 
+		<b>navigational</b> and <b>session patterns</b> of Web robot traffic across three Web servers in the United States, 
+		Europe, and the Middle East under 30 different features. The results indicate that some features may be 
+		fitted to the same <b>heavy-tailed</b> model across the Web servers, but the best fitting models for other features 
+		depend on the Web server. Due to some different tasks of Web robots and security policies set by website 
+		administrators, there are thus some features of Web robot traffic that cannot be universally modeled.</br>
+		The <i>paper</i> titled <a href="https://ieeexplore.ieee.org/document/8362266/?part=1"> 
+“Some (Non-)Universal Features of Web Robot Traffic” </a> which presents the report of this project has been accepted at <a href= "http://ee-ciss.princeton.edu/"> 52th Annual
+Conference on Information Sciences and Systems (CISS2018)</a>. 
+		</p></td></tr>      
+		                    
+</table>                    
+                            
+<!-- first project -->      
+<table>                     
+		<tr><td>            
+		<img width="250px" height="170px" src="image/RST.png"/></td> 
+		<td>                
+		<h3 align="center"> Feature selection based on Fuzzy Rough Set theory </h3>
+		<p>Despite emerging of Web 2.0 applications and increasing requirements to well-behaved Web robots, malicious ones can reveal irreparable 
+		risks for Web sites. Regardless of behavior of Web robots, they may occupy bandwidth and reduce performance of Web servers. 
+		In spite of many prestigious researches trying to characterize Web visitors and classify them, there is a lack of concentration on
+		feature selection to dynamically choose attributes used to describe Web sessions. Therefore, in this research, a new algorithm is 
+		proposed based on Fuzzy Rough Set (RST) theory to better characterize and cluster Web visitors of three real Web sites. RST describes 
+		how a collection of data may be separated based on a decision boundary and an indiscernibility relation (Pawlak, 1982).</br>
+		The report of this research is resulted in <a href="http://www.sciencedirect.com/science/article/pii/S0957417417304116?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BjJ7RLNelTyudIJyk8OG4Lg%3D%3D">
+		“A soft computing approach for benign and malicious web robot detection”</a> 
+		published in <b>Expert Systems with Applications</b> journal (Impact factor: 3.928). </br>
+		</p></td></tr>      
+		                    
+</table>                    
+<!-- second project -->     
+<table>                     
+		<tr><td>            
+		<img width="250px" height="200px" src="image/dd1.gif"/></td>
+		<td>                
+		<h3 align="center"> Comparing Neural Network and DBSCAN in clustering Web users</h3>
+		<p>Today  world’s  dependence  on  the  Internet  and  the  emerging  of  Web  2.0 applications  significantly  increased  the requirement  of 
+		web  robots  crawling the  sites  to  support  services  and  technologies.  Regardless  of  the  advantages of  robots,  
+		they  may  occupy  the  bandwidth  and  reduce  the  performance  of web servers. Despite a variety of studies, there is no accurate method 
+		for classifying  huge  data  sets  of  web  visitors  in  a  reasonable  amount  of  time. Moreover,  this  technique  should  be  insensitive 
+		to  the  ordering  of  instances and  produce  deterministic  accurate  results.  Therefore,  in this research we present a density-based
+		clustering  approach  using  Density-Based  Spatial  Clustering  of Applications with Noises (DBSCAN), to classify web visitors of two real 
+		large data sets and compare its efficiency with the performance of Self-Organizing Map as a Neural Network technique. For more information about the results of this research,
+		please refer to <a href="http://link.springer.com/article/10.1007/s00500-016-2476-4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BjJ7RLNelTyudIJyk8OG4Lg%3D%3D">
+		“Detection of Web site visitors based on fuzzy rough sets” </a> published in Soft Computing (Impact factor: 2.472).</p></td></tr> </p></td></tr>
+ </table>                   
+ <!-- third project -->     
+  <table>                   
+		<tr><td>            
+		<img width="250px" height="200px" src="image/graph.gif"/></td> 
+		<td>                
+		<h3 align="center"> Using Markov Clustering for Web robot detection </h3>
+		<p>The MCL algorithm (Van Dongen, 2001) is a powerful method to cluster data points by simulating stochastic flows over an input graph.
+		MCL has seen success in a variety of domains, such as social network analysis, knowledge base enrichment, community detection, and bioinformatics.
+		The MCL algorithm is specified by an M<sub>(k×k)</sub> column stochastic matrix, representing probabilities of transitions within a complete graph on k nodes. 
+		Nodes of this graph correspond to a data point (i.e. a web session) while transition probabilities (specified by the matrix element m<sub>ij</sub>) 
+		specify the strength of a relationship or the degree of similarity among them. MCL finds a clustering of nodes in the graph by transforming M with 
+		iterative applications of three operations, namely expand, inflate, and prune, until a convergence criterion is reached.
+  </p></td></tr>            
+ <!-- forth project -->     
+  <table class="table">     
+        <tr><td>		    
+		<img width="250px" height="200px" src="image/penalty.png"/></td>
+		<td>                
+		<h3 align="center"> Defining new navigational features to describe web crawlers </h3>
+		<p>To describe web visitors, we suggest new features based on the behavioral patterns recorded in access log files of web servers. 
+		For instance, Penalty is a numerical attribute proposed based
+        on the navigational patterns of humans which involve a large number of frequent back-and-forward movements and loops. Having a view restricted by 
+		the structure of links of a site to find the required information, “back” and “forward” option in web browser’s history and disorienting the humans 
+		during their visits are some reasons that cause such navigational patterns. While after the first crawl of a site, robots can detect where the required information
+        resides and restrict their next requests to specific areas of that site. Penalty attribute penalizes each back-and-forward navigation or loop, and it 
+		is reasonable to expect a larger value for this attribute among human users than web robots. If interested, please refer to our paper,
+		<a href="http://ieeexplore.ieee.org/document/6993362/"> “A density based clustering approach for web robot detection”</a>, published in 
+        International Conference on Computer and Knowledge Engineering (ICCKE), IEEE, (Accept Rate:22%).		
+		</p></td></tr>      
+ </table>                   
+ <!-- fifth project -->     
+<table class="table">       
+        <tr><td>		    
+		<img width="250px" height="180px" src="image/Finference.png"/></td>
+		<td>                
+		<h3 align="center"> Using Fuzzy Inference System based on decision trees for Web robot classification </h3>
+		<p>Web administrators should pay special attention and closely inspect web sessions that correspond to web robots; 
+		because  the  traffic  of  these  autonomous  systems  occupies  the  bandwidth,  reduces  the  performance  of  web servers  and  in  some  cases, 
+		threaten  the  security  of  human  users.  In  this  research, we  propose  a  novel  fuzzy algorithm based on the decision trees. 
+		In order to overcome the curse of dimensionality issue and facilitate the designing of the fuzzy inference system, 
+		we use a correlation analysis to eliminate some features. For converting each  filtered  attribute  to  a  fuzzy  variable,  
+		a  C4.5  decision  tree  is  used.  It  is  worth  mentioning  that  making  a decision  tree  is  based  on  choosing  the  best  feature  
+		with  the  most  information  gain  metric  in  each  level  of the tree.  Therefore,  we  can  reduce  the  number  of  attributes  again.  Finally, 
+		the fuzzy  rules  are  extracted  from  the  C4.5 decision tree and the fuzzy inference model is made. </p></td></tr>
+ </table>                   
+  <!-- fifth project -->    
+                            
+		                    
+</table>                    
+<hr>                        
+<h2 align="center"> <span class="title"> Research Services </span></h2>
+	<ul> 
+		<li> Invited talk
+			<ul>
+		           <li><a href="https://ocwic19.ocwic.org/">OCWiC Conference 2019</a></li>
+			</ul>
+		</li>
+
+		<li> Journal reviewer
+			<ul>
+			    <li><a href="https://dl.acm.org/journal/toit"> Pattern Recognition</a></li>
+			    <li><a href="https://dl.acm.org/journal/toit"> ACM Transactions on Internet Technology</a></li>
+			    <li><a href="http://cis.ieee.org/ieee-transactions-on-fuzzy-systems.html"> IEEE Transactions on Fuzzy Systems</a></li>
+		            <li><a href="https://www.journals.elsevier.com/computers-and-security"> Computers & Security</a></li>
+			    <li> <a href="https://dl.acm.org/journal/tist"> ACM Transactions on Intelligent Systems and Technology </a></li>
+			</ul>
+		</li>
+		<li> Conference program committee member
+		        <ul>
+			   <li> <a href="http://saiconference.com/IntelliSys"> Intelligent Systems Conference 2019</a></li>
+			   <li> <a href="http://saiconference.com/Computing"> Computing Conference 2018-19 </a></li>
+			</ul>
+		</li>
+		<li> Conference reviewer
+			<ul>
+			   <li> <a href="https://webintelligence2019.com/"> Web Intelligence 2019 </a></li>
+			   <li> <a href="https://www.usenix.org/conference/soups2019"> Fifteenth Symposium on Usable Privacy and Security 2019</a></li>
+		           <li> <a href="https://ghc.anitab.org/"> Grace Hopper Celebration 2019</a></li>
+			   <li> <a href="https://www2018.thewebconf.org/"> The Web Conference (Demo Track) 2018</a></li>
+			</ul>
+		</li>
+	        <li> Scientific society
+			<ul>
+			    <li> <a href="https://women.acm.org/"> ACM-W </a></li>
+		            <li> <a href="http://www.eusflat.org/"> EUSFLAT - European Society for Fuzzy Logic and Technology </a></li>
+			</ul>
+		</li>
+	</ul> 
+
+
+<div id="Footbanner">       
+                            
+    	<p align="center">Copyright © Mahdieh Zabihimayvan</p>
+</div>                      
+                            
+    </div>                  
+	</div>                  
+    </div>                  
+</div>                      
+</body>                     
+</html>                     
+      
